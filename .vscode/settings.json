@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.ignoreFiles": [
+    "chat.db",
+    "chat.db-journal",
+    "**/venv/**",
+    "**/__pycache__/**"
+  ]
+}
